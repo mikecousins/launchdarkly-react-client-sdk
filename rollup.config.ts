@@ -13,7 +13,7 @@ export default [
     input: 'src/index.ts',
     output: [
       {
-        file: 'lib/cjs/index.js',
+        file: 'lib/cjs/index.cjs',
         format: 'cjs',
         sourcemap: true,
       },
@@ -25,7 +25,7 @@ export default [
     input: 'src/index.ts',
     output: [
       {
-        file: 'lib/esm/index.js',
+        file: 'lib/esm/index.mjs',
         format: 'esm',
         sourcemap: true,
       },
