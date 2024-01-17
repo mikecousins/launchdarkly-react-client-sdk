@@ -1,8 +1,6 @@
 {
-  "name": "launchdarkly-react-client-sdk",
-  "version": "3.0.10",
-  "description": "LaunchDarkly SDK for React",
-  "author": "LaunchDarkly <team@launchdarkly.com>",
+  "name": "@mikecousins/launchdarkly-react-client-sdk",
+  "version": "3.0.11",
   "license": "Apache-2.0",
   "keywords": [
     "launchdarkly",
@@ -48,9 +46,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/launchdarkly/react-client-sdk.git"
+    "url": "git://github.com/mikecousins/launchdarkly-react-client-sdk.git"
   },
-  "homepage": "https://github.com/launchdarkly/react-client-sdk",
+  "homepage": "https://github.com/mikecousins/launchdarkly-react-client-sdk",
   "devDependencies": {
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-node-resolve": "^15.1.0",
